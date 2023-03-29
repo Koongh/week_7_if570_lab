@@ -1,11 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
-INJECTED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
-INJECTED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
-INJECTED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+ADDED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
 MERGED from [androidx.databinding:databinding-adapters:4.0.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\78de48537f47c47c2e3be0ec46cf1045\databinding-adapters-4.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:4.0.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\3f5423e23ce793b48c43afd78a3916f9\databinding-runtime-4.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\7ec1197eff5064f927c1d0ae841c5523\jetified-timber-4.7.1\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\3ba82d8c592bb9ebc42975836c540616\constraintlayout-2.0.0-rc1\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\4e039017508058e03141616af225b4eb\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:viewbinding:4.0.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\b489210023b4e591650fd25144ad3624\jetified-viewbinding-4.0.1\AndroidManifest.xml:17:1-22:12
@@ -28,25 +29,27 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\USER\.gradle\cac
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\b77732ae052c8a7beadaefc4f5cc2d1b\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\cfdba3a9d264c21140cf4b27a073b375\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\ef7f8b788d30752a01fb2308ec81e29a\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
-INJECTED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
-INJECTED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
 	package
 		ADDED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:18:5-49
 		INJECTED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 		INJECTED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-		ADDED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+		ADDED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
 		INJECTED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-		ADDED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+		ADDED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
 		INJECTED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:11-69
 application
-ADDED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:20:5-34:19
+ADDED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:19:5-34:19
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\7ec1197eff5064f927c1d0ae841c5523\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\7ec1197eff5064f927c1d0ae841c5523\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\3ba82d8c592bb9ebc42975836c540616\constraintlayout-2.0.0-rc1\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\3ba82d8c592bb9ebc42975836c540616\constraintlayout-2.0.0-rc1\AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.3.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\e270a6e88d0fcab34dc57babf6858d5a\core-1.3.0\AndroidManifest.xml:24:5-89
@@ -67,6 +70,8 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\US
 		ADDED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:21:9-35
 	android:theme
 		ADDED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:26:9-40
+	android:name
+		ADDED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:20:9-43
 activity#com.example.android.dessertclicker.MainActivity
 ADDED from D:\MobileApp\week_7_if570_lab\DessertClicker-Starter\app\src\main\AndroidManifest.xml:27:9-33:20
 	android:name
@@ -89,6 +94,8 @@ MERGED from [androidx.databinding:databinding-adapters:4.0.1] C:\Users\USER\.gra
 MERGED from [androidx.databinding:databinding-adapters:4.0.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\78de48537f47c47c2e3be0ec46cf1045\databinding-adapters-4.0.1\AndroidManifest.xml:22:5-44
 MERGED from [androidx.databinding:databinding-runtime:4.0.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\3f5423e23ce793b48c43afd78a3916f9\databinding-runtime-4.0.1\AndroidManifest.xml:22:5-44
 MERGED from [androidx.databinding:databinding-runtime:4.0.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\3f5423e23ce793b48c43afd78a3916f9\databinding-runtime-4.0.1\AndroidManifest.xml:22:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\7ec1197eff5064f927c1d0ae841c5523\jetified-timber-4.7.1\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\7ec1197eff5064f927c1d0ae841c5523\jetified-timber-4.7.1\AndroidManifest.xml:5:5-43
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\3ba82d8c592bb9ebc42975836c540616\constraintlayout-2.0.0-rc1\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\3ba82d8c592bb9ebc42975836c540616\constraintlayout-2.0.0-rc1\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\4e039017508058e03141616af225b4eb\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
